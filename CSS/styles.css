@@ -1,0 +1,49 @@
+body {
+color: #219F94;
+margin: 0Px;
+text-align: center;
+
+}
+
+h1{
+  /*/color: blue;*/
+font-size: 70px;
+margin-top: 0;
+font-family: 'Sacramento',cursive;
+
+
+}
+
+.Top-Container {
+  font-size: 25px;
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+
+.ICAN{
+  position:static;
+}
+
+.Hello{
+  font-size: 25px;
+}
+
+.Hello1{
+  font-size: 20px;
+}
+
+.skills{
+  font-size: 25px;
+}
+
+.skill1{
+
+font-size: 20px;
+
+}
+.skill-row{
+
+  font-size: 20px;
+
+}
